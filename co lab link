@@ -1,0 +1,21 @@
+# HTML Quick-Styler 🚀
+
+AI-powered HTML Generator using IBM Granite 3.3 2B Instruct Model.
+
+## 🔗 Live Google Colab Notebook
+
+Click below to view and run the project:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1iU9ciD7zBDtrFJIvqLTb5W8eGJmkQO8m#scrollTo=eoQ-RrgCc1Dz)
+
+## 📌 Project Description
+
+HTML Quick-Styler is a modular AI-based platform that generates modern,
+responsive HTML5 code using IBM Granite model.
+
+## 🛠 Technologies Used
+
+- Python
+- IBM Granite 3.3 2B Instruct
+- Gradio
+- Google Colab
